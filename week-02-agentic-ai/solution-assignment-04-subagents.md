@@ -80,7 +80,7 @@ Trigger the security auditor agent and analyze the generated security report for
 
 #### Screenshot 5 — Security audit report output
 
-Add your screenshot here.
+![Task 4.3.0](./screenshots/task4.3.0.png)
 
 ---
 
