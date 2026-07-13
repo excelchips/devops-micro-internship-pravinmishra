@@ -20,7 +20,7 @@ Create the `.claude` directory structure required for team-level Claude Code con
 
 #### Screenshot 1 — `.claude` folder structure visible in VS Code Explorer
 
-Add your screenshot here.
+![Task 6.1.0](./screenshots/task6.1.0.png)
 
 ---
 
@@ -34,7 +34,7 @@ Create a hook that checks user prompts before Claude processes them and blocks r
 
 #### Screenshot 2 — `user-prompt-guard.sh` open in VS Code showing the hook script
 
-Add your screenshot here.
+![Task 6.2.0](./screenshots/task6.2.0.png)
 
 ---
 
@@ -48,7 +48,7 @@ Create a hook that runs before Claude executes Bash commands and blocks dangerou
 
 #### Screenshot 3 — `pre-tool-guard.sh` open in VS Code showing the hook script
 
-Add your screenshot here.
+![Task 6.6.0](./screenshots/task6.6.0.png)
 
 ---
 
@@ -62,7 +62,7 @@ Create a hook that runs after Claude executes a Bash command and logs selected T
 
 #### Screenshot 4 — `post-tool-logger.sh` open in VS Code showing the hook script
 
-Add your screenshot here.
+![Task 6.7.0](./screenshots/task6.7.0.png)
 
 ---
 
@@ -88,7 +88,7 @@ Prove the prompt-level hook works by typing a destructive prompt and verifying i
 
 ### Evidence
 
-#### Screenshot 6 — UserPromptSubmit hook blocking the destructive prompt
+![Task 6.6.0](./screenshots/task6.6.0.png)
 
 ---
 
@@ -100,7 +100,7 @@ Prove the tool-level hook works by asking Claude to execute a dangerous Bash com
 
 ### Evidence
 
-#### Screenshot 7 — PreToolUse hook blocking terraform destroy
+![Task 6.7.0](./screenshots/task6.7.0.png)
 
 ---
 
@@ -112,9 +112,9 @@ Prove the logging hook runs after a successful command execution and records Ter
 
 ### Evidence
 
-#### Screenshot 8 — Claude running terraform validate successfully
+![Task 6.8.0](./screenshots/task6.8.0.png)
 
-#### Screenshot 9 — `.claude/deploy.log` showing the logged command
+![Task 6.8.1](./screenshots/task6.8.1.png)
 
 ---
 
