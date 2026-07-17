@@ -42,11 +42,12 @@ You can publish your blog on:
 
 ---
 
+
 ### Evidence
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+![alt text](screenshots/image-1.png)
 
 ---
 
@@ -54,7 +55,7 @@ Add your screenshot here.
 
 Blog Link:
 
-`Add your URL here`
+https://medium.com/@toyeoloni/reflection-week-2-discovering-that-ai-needs-more-than-good-prompts-f6ca8ecc8709
 
 ---
 
@@ -92,23 +93,16 @@ Your post must include:
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+![alt text](screenshots/t11.png)
 
 ---
 
 ### Submission Field
 
-LinkedIn Post Content (copy-paste here):
-
-```
-Paste your LinkedIn post content here
-```
-
----
 
 ### LinkedIn Post Link:
 
-`Add your URL here`
+https://www.linkedin.com/posts/ibitoye-oloni_dmibypravinmishra-agenticai-claudecode-share-7481405168287215617-X6yq/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABp_1YBcUgsxYJIdRCX9CFvm17K_adeV6E
 
 ---
 
