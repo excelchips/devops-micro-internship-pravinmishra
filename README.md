@@ -134,7 +134,7 @@ Week 04 → Git & GitHub
 | 01 | Success Mindset | ✅ Completed  | ✅ Solved | https://www.linkedin.com/posts/ibitoye-oloni_ibitoye-oloni-20-technology-changes-quickly-share-7478415594032230402-GpUa/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABp_1YBcUgsxYJIdRCX9CFvm17K_adeV6E | https://medium.com/@toyeoloni/engineering-trust-the-next-chapter-of-ibitoye-oloni-a09aa8056919?postPublishedType=initial |
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved| https://www.linkedin.com/posts/ibitoye-oloni_dmibypravinmishra-agenticai-claudecode-share-7481405168287215617-X6yq/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABp_1YBcUgsxYJIdRCX9CFvm17K_adeV6E | https://medium.com/@toyeoloni/reflection-week-2-discovering-that-ai-needs-more-than-good-prompts-f6ca8ecc8709 |
 | 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/ibitoye-oloni_devops-aws-linux-share-7483576101680783360-2p22/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABp_1YBcUgsxYJIdRCX9CFvm17K_adeV6E | https://medium.com/@toyeoloni/from-manual-deployment-to-repeatable-automation-how-bash-and-claude-code-changed-my-perspective-30f15c2339d3 |
-| 04 | Git & GitHub | ✅ Completed | ✅ Solved | — | — |
+| 04 | Git & GitHub | ✅ Completed | ✅ Solved | https://www.linkedin.com/feed/update/urn:li:activity:7486092994371215360/ | https://medium.com/@toyeoloni/week-4-git-github-for-modern-engineering-44fe03fd8152 |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
